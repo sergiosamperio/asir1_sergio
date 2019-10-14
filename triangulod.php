@@ -27,10 +27,11 @@ function C ($a){
 	return longitud(
 		$a['lados'][0],
 		$a['lados'][1],
-		$a['lados'][2]).' y '.Angulo(
-		$a['angulo'][0],
-		$a['angulo'][1],
-		$a['angulo'][2]);
+		$a['lados'][2]).' y '
+		.Angulo(
+			$a['angulo'][0],
+			$a['angulo'][1],
+			$a['angulo'][2]);
 }
 echo C($a);
 ?>
