@@ -2,71 +2,71 @@
 function mes($n){
 	$a=[
 	[
-		'mes'=>'Enero',
+		'mes'=>'enero',
 		'dias'=>'31',
-		'estacion'=>'Invierno'
+		'estacion'=>'invierno'
 	],
 	[
-		'mes'=>'Febrero',
+		'mes'=>'febrero',
 		'dias'=>'28/29',
-		'estacion'=>'Invierno'
+		'estacion'=>'invierno'
 	],
 	[
-		'mes'=>'Marzo',
+		'mes'=>'marzo',
 		'dias'=>'31',
-		'estacion'=>'Primavera'
+		'estacion'=>'primavera'
 	],
 	[
-		'mes'=>'Abril',
+		'mes'=>'abril',
 		'dias'=>'30',
-		'estacion'=>'Primavera'
+		'estacion'=>'primavera'
 	],
 	[
-		'mes'=>'Mayo',
+		'mes'=>'mayo',
 		'dias'=>'31',
-		'estacion'=>'Primavera'
+		'estacion'=>'primavera'
 	],
 	[
-		'mes'=>'Junio',
+		'mes'=>'junio',
 		'dias'=>'30',
-		'estacion'=>'Verano'
+		'estacion'=>'verano'
 	],
 	[
-		'mes'=>'Julio',
+		'mes'=>'julio',
 		'dias'=>'31',
-		'estacion'=>'Verano'
+		'estacion'=>'verano'
 	],
 	[
-		'mes'=>'Agosto',
+		'mes'=>'agosto',
 		'dias'=>'31',
-		'estacion'=>'Verano'
+		'estacion'=>'verano'
 	],
 	[
-		'mes'=>'Septiembre',
+		'mes'=>'septiembre',
 		'dias'=>'30',
-		'estacion'=>'Otoño'
+		'estacion'=>'otoño'
 	],
 	[
-		'mes'=>'Octubre',
+		'mes'=>'octubre',
 		'dias'=>'31',
-		'estacion'=>'Otoño'
+		'estacion'=>'otoño'
 	],
 	[
-		'mes'=>'Noviembre',
+		'mes'=>'noviembre',
 		'dias'=>'30',
-		'estacion'=>'Otoño'
+		'estacion'=>'otoño'
 	],
 	[
-		'mes'=>'Diciembre',
+		'mes'=>'diciembre',
 		'dias'=>'31',
-		'estacion'=>'Invierno'
+		'estacion'=>'invierno'
 	],
 		
 	];
 	$r=null;
-	$r=$r.'Mes : '.' '.$a[$n-1]['mes'].'<br>';
-	$r=$r.'Dias del mes:'.' '.$a[$n-1]['dias'].'<br>';
-	$r=$r.'Estacion del mes:'.' '.$a[$n-1]['estacion'].'<br>';
+	$r=$r.'El mes del año es'.' '.$a[$n-1]['mes'];
+	$r=$r.', este mes tiene'.' '.$a[$n-1]['dias'].' dias';
+	$r=$r.' y la estación del año es'.' '.$a[$n-1]['estacion'].'<br>';
 	return $r;
 }
 echo mes(2).'<br>';
