@@ -12,7 +12,7 @@
 <left></font>
 <font color="white"><h2><u>Clasificación LaLiga Smartbank</u></h2></font>
 </left>
-<table class="egt">
+
 <TABLE BORDER>
   <tr>
   
@@ -116,23 +116,23 @@
 
 <left>
 <font color="white"><h2><u>Próximo Partido: Jornada 42</u></h2></font>
-<h5>Domingo 24/05/2020</h5>                             
-<h5>19:00 hora local</h5>
-<h5>Campos de Sport El Sardinero</h5>
+<h3>Domingo 24/05/2020</h3>                             
+<h3>19:00 hora local</h3>
+<h3>Campos de Sport El Sardinero</h3>
 <img src="racingrayo.png" width="300" height="200"/> 
 <left>
 
 <font color="white"><h2><u>Entradas</u></h2></font>
 <img src="estadio.png" width="300" height="200"/> 
-<h5>1. Tribuna Central => 50€</h5> 
-<h5>2. Tribuna Principal => 80€</h5> 
-<h5>3. Tribuna Este => 20€</h5> 
-<h5>4. Tribuna Norte => 20€</h5>
-<h5>5. Tribuna Sur => 20€</h5> 
-<h5>6. Preferencia Oeste => 10€</h5> 
-<h5>7. Preferencia Este => 10€</h5> 
-<h5>8. Preferencia Norte => 10€</h5> 
-<h5>9. Preferencia Sur => 10€</h5>
+<h4>1. Tribuna Central => 50€</h4> 
+<h4>2. Tribuna Principal => 80€</h4> 
+<h4>3. Tribuna Este => 20€</h4> 
+<h4>4. Tribuna Norte => 20€</h4>
+<h4>5. Tribuna Sur => 20€</h4> 
+<h4>6. Preferencia Oeste => 10€</h4> 
+<h4>7. Preferencia Este => 10€</h4> 
+<h4>8. Preferencia Norte => 10€</h4> 
+<h4>9. Preferencia Sur => 10€</h4>
 
 <font color="white"><h2><u>Sorteo de 2 entradas para el partido</u></h2></font>
 <form>
