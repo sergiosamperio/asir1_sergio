@@ -1,15 +1,18 @@
 <html>
 <head>
 <title>Real Racing Club | Web Oficial</title>
+<body> <center>
+<table width="80%">
+	<tr>
+		<td>
 </head>
 <body bgcolor="#159528">
 
-<center>
-<img src="racing.png" width="250" height="300"/> 
+
+<center><img src="racing.png" width="250" height="300"/></center>
 
 
-<font face="Cambria"><marginwidth<font size="6"><h1><b>REAL RACING CLUB | Desde 1913</b></h1></marginwidth
-<left></font>
+<font face="Cambria"><font size="6"><h1><b>REAL RACING CLUB | Desde 1913</b></h1></font>
 <font color="white"><h2><u>Clasificación LaLiga Smartbank</u></h2></font>
 </left>
 
@@ -114,25 +117,25 @@
 </table>
 
 
-<left>
+
 <font color="white"><h2><u>Próximo Partido: Jornada 42</u></h2></font>
 <h3>Domingo 24/05/2020</h3>                             
 <h3>19:00 hora local</h3>
 <h3>Campos de Sport El Sardinero</h3>
 <img src="racingrayo.png" width="300" height="200"/> 
-<left>
+
 
 <font color="white"><h2><u>Entradas</u></h2></font>
 <img src="estadio.png" width="300" height="200"/> 
-<h4>1. Tribuna Central => 50€</h4> 
-<h4>2. Tribuna Principal => 80€</h4> 
-<h4>3. Tribuna Este => 20€</h4> 
-<h4>4. Tribuna Norte => 20€</h4>
-<h4>5. Tribuna Sur => 20€</h4> 
-<h4>6. Preferencia Oeste => 10€</h4> 
-<h4>7. Preferencia Este => 10€</h4> 
-<h4>8. Preferencia Norte => 10€</h4> 
-<h4>9. Preferencia Sur => 10€</h4>
+<h3>1. Tribuna Central => 50€</h3> 
+<h3>2. Tribuna Principal => 80€</h3> 
+<h3>3. Tribuna Este => 20€</h3> 
+<h3>4. Tribuna Norte => 20€</h3>
+<h3>5. Tribuna Sur => 20€</h3> 
+<h3>6. Preferencia Oeste => 10€</h3> 
+<h3>7. Preferencia Este => 10€</h3> 
+<h3>8. Preferencia Norte => 10€</h3> 
+<h3>9. Preferencia Sur => 10€</h3>
 
 <font color="white"><h2><u>Sorteo de 2 entradas para el partido</u></h2></font>
 <form>
@@ -160,7 +163,10 @@ Acepto las condiciones del sorteo<br />
  
 
 </form>
-
+		</td>
+	</tr>
+</table> </center>
+</body>
 
 
 
