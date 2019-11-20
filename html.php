@@ -126,7 +126,7 @@
 
 
 <font color="white"><h2><u>Entradas</u></h2></font>
-<img src="estadio.png" width="300" height="200"/> 
+<img src="estadio.png" width="300" height="200"/>
 <h3>1. Tribuna Central => 50€</h3> 
 <h3>2. Tribuna Principal => 80€</h3> 
 <h3>3. Tribuna Este => 20€</h3> 
