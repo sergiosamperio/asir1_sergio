@@ -1,12 +1,12 @@
 <html>
 <head>
 <title>Real Racing Club | Web Oficial</title>
-<body> <center>
+<body bgcolor="#159528"><center>
 <table width="80%">
 	<tr>
 		<td>
 </head>
-<body bgcolor="#159528">
+
 
 
 <center><img src="racing.png" width="250" height="300"/></center>
