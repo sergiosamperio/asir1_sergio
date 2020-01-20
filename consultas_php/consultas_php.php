@@ -15,21 +15,25 @@ if(0){ // provincias de Galicia
 		if($p['autonomia']=='Galicia'){
 			echo $p['provincia'];
 			echo '<br/>';
-		}
-	}
 }
 if(0){ // provincias que empiezan por A
 	foreach($provincias as $p){
 		if($p['provincia'][0]=='A') {
 			echo $p['provincia'];
 			echo '<br/>';
-		}
-	}
 }
 if(0){ // densidades de población de las provincias
 	foreach($provincias as $p){
 		echo $p['provincia'].' ';
 		echo round($p['poblacion']/$p['superficie'],4).'<br/>';		
-	}
-
-if(0){ // listado de autonomias
+}
+if(1){ // listado de autonomias
+	foreach($provincias as $p)
+		$autonomias[]=$p['autonomia'];
+	$autonomias=array_unique($autonomias);
+	echo '<ol>';
+	foreach($autonomias as $autonomia)
+		echo '<li>'.$autonomia.'</li>';
+	echo '</ol>';
+}
+	
